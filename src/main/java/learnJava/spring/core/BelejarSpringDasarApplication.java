@@ -8,6 +8,6 @@ public class BelejarSpringDasarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BelejarSpringDasarApplication.class, args);
-	}
 
+	}
 }
