@@ -10,4 +10,6 @@ class BelejarSpringDasarApplicationTests {
 	void contextLoads() {
 	}
 
+    public static class LifeCycleTest {
+    }
 }
